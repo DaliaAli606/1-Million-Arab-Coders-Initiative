@@ -1,2 +1,2 @@
 Full-Stack-Development-Track
-![image](https://user-images.githubusercontent.com/81693689/120342424-11213900-c2f8-11eb-952a-8f359e2f9f92.png)
+![image](https://user-images.githubusercontent.com/81693689/121763473-b03a0200-cb3c-11eb-945c-3b928c549541.png)
